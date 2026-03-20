@@ -12,6 +12,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.tranmc.pcshop",
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE"
       },
