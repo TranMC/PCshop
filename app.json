@@ -4,7 +4,7 @@
     "slug": "pcshop",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "src\\assets\\images\\icon.png",
+    "icon": "src/assets/images/icon.png",
     "scheme": "frontendreactnativepcshop",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -21,14 +21,14 @@
     },
     "web": {
       "output": "static",
-      "favicon": "./assets/images/favicon.png"
+      "favicon": "src/assets/images/icon.png"
     },
     "plugins": [
       "expo-router",
       [
         "expo-splash-screen",
         {
-          "image": "./assets/images/splash-icon.png",
+          "image": "src/assets/images/icon.png",
           "imageWidth": 200,
           "resizeMode": "contain",
           "backgroundColor": "#ffffff",
